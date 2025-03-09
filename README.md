@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 A versatile professional with over 20 years of experience in programming, data analytics, project management, and administrative support.
 <br><br>
 Skilled in Python, data engineering, and AI-driven solutions, with a proven ability to optimize workflows, manage large datasets, and deliver impactful solutions. Certified in Python for Analytics and Digital Transformation. Ready to contribute to dynamic tech teams and solve complex challenges.
