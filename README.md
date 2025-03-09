@@ -13,7 +13,6 @@ Skilled in Python, data engineering, and AI-driven solutions, with a proven abil
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
  
 ![AzureSQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
-<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white" alt="Azure SQL" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure SQL Logo" height="30">
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
  
@@ -22,7 +21,7 @@ Skilled in Python, data engineering, and AI-driven solutions, with a proven abil
 
 ![Microsoft Designer](https://img.shields.io/badge/Microsoft%20Designer-68217A?style=for-the-badge&logo=microsoft&logoColor=white)
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 <br><br>
 
 # 📊 GitHub Overview:
