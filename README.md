@@ -31,8 +31,8 @@ Skilled in Python, data engineering, and AI-driven solutions, with a proven abil
 
 # :memo: Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnnamaniS&repo=JDE05_Interim_Project&theme=default&hide_border=false)](https://github.com/AnnamaniS/JDE05_Interim_Project)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Python_Projects&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Basic-Python-Coding)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnnamaniS&repo=repo2911&theme=default&hide_border=false)](https://github.com/AnnamaniS/repo2911)
 <br/><br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YvonneLipLim&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AnnamaniS&icon=0&color=0)](https://visitcount.itsvg.in)
