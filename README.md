@@ -1,7 +1,7 @@
 # 💫 About Me:
-A conscientious professional with a rich background in human resources and operations management. Capable as a swiss army knife, in examining information, identifying patterns, and deriving meaningful insights. 
+A versatile professional with over 20 years of experience in programming, data analytics, project management, and administrative support.
 <br><br>
-Certified in Data Analytics and Data Engineering, as well as Agile methodologies, leveraging tools like SQL, Excel, Python, Tableau, and Power BI to craft robust data pipelines and engaging visualizations. Committed to optimizing processes, enhancing problem-solving efforts, and fostering cross-functional collaboration.
+Skilled in Python, data engineering, and AI-driven solutions, with a proven ability to optimize workflows, manage large datasets, and deliver impactful solutions. Certified in Python for Analytics and Digital Transformation. Ready to contribute to dynamic tech teams and solve complex challenges.
 <br><br>
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YvonneLipLim) [![Tableau](https://img.shields.io/badge/Tableau-%2300447A.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/yvonne.lip/vizzes)
