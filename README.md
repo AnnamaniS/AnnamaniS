@@ -25,12 +25,12 @@ Skilled in Python, data engineering, and AI-driven solutions, with a proven abil
 <br><br>
 
 # 📊 GitHub Overview:
-![](https://github-readme-stats.vercel.app/api?username=YvonneLipLim&theme=default&show_icons=true&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=YvonneLipLim&theme=default&hide_border=false)<br/><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YvonneLipLim&include_all_languages=true&layout=compact&card_width=468&card_height=300)](https://github.com/YvonneLipLim)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=AnnamaniS&theme=default&show_icons=true&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=AnnamaniS&theme=default&hide_border=false)<br/><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamaniS&include_all_languages=true&layout=compact&card_width=468&card_height=300)](https://github.com/AnnamaniS)<br/><br/>
 
 
 # :memo: Top Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=udacity-project3-musicstoredatabase&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Project4-DataVisualization-Tableau&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project4-DataVisualization-Tableau)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnnamaniS&repo=udacity-project3-musicstoredatabase&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Project4-DataVisualization-Tableau&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project4-DataVisualization-Tableau)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Python_Projects&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Basic-Python-Coding)
 <br/><br/>
 
